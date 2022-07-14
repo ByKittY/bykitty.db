@@ -1,0 +1,37 @@
+{
+    "name": "bykitty.db",
+    "version": "1.0.0",
+    "description": "bykitty.db Kolay kullanom sağlayan kullanışlı bir veritabanı modülü",
+    "main": "index.js",
+    "types": "types/index.d.ts",
+	"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "lodash": "^4.17.21",
+        "yaml": "^1.10.2"
+    },
+    "homepage": {
+        "type": "git",
+        "url": "https://github.com/ByKittY/bykitty.db#readme"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ByKittY/bykitty.db"
+    },
+    "author": "ByKittY",
+    "license": "Apache-2.0",
+    "keywords": [
+        "database",
+        "veritabanı",
+        "db",
+        "tr",
+        "turkish",
+        "json",
+        "yaml",
+        "bykitty",
+        "bykitty.db",
+        "discord.js",
+        "discord"
+    ]
+}
